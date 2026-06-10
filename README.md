@@ -6,13 +6,12 @@ A deep learning system that classifies chest X-ray images as **Tuberculosis Posi
 ---
 
 ## 📁 Project Structure
-
-
+```
 tb_classifier/
 ├── tb_classifier.py     ← Main script (train + predict)
 ├── evaluate.py          ← Metrics, confusion matrix, Grad-CAM
 ├── setup_dataset.py     ← Auto-download & prepare dataset from Kaggle
-
+```
 
 ## 📦 Dataset
 
